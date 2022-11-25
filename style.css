@@ -1,7 +1,19 @@
 body{
-  background: gray;
+  background:purple;
 }
 form label{
-  display{
-    font:black;
-    font
+   display:block;
+    font-size:25px;
+}
+
+td {
+  border: 3px solid #000000;
+  
+  border-color: cor;
+  text-align: center;
+  font-size: 25px
+    background:purple;
+  
+}
+  
+    
